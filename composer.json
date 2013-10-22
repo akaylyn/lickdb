@@ -1,0 +1,13 @@
+{
+  "name": "lickdb",
+  "description": "fast extensible php database layer",
+  "require-dev": {
+    "mockery/mockery": "0.8@stable",
+    "phpunit/phpunit": "3.7.*@stable",
+    "facebook/xhprof": "dev-master",
+    "phpmd/phpmd": "1.5.*"
+  },
+  "autoload": {
+    "psr-0": { "lick\\": "" }
+  }
+}
